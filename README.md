@@ -2,6 +2,9 @@
 
 StockFlow is a B2B SaaS backend system for managing inventory across multiple warehouses with supplier integration.
 
+📄 **Case Study Document:**  
+[StockFlow – Backend Engineering Case Study](https://docs.google.com/document/d/1WI7Znrj4EnkO_sTuJnaH1OBAaCkDALOBQzypsnRnBy0/edit?usp=sharing)
+
 ## Features
 - Product creation with SKU uniqueness
 - Multi-warehouse inventory management
