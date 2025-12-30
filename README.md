@@ -17,15 +17,6 @@ StockFlow is a B2B SaaS backend system for managing inventory across multiple wa
 - POST /api/products
 - GET /api/companies/:companyId/alerts/low-stock
 
-## Setup Instructions
-1. Install dependencies  
-   npm install
-
-2. Configure PostgreSQL connection in db.js
-
-3. Start server  
-   npm start
-
 ## Assumptions
 - Recent sales are tracked externally (30 days)
 - SKU is globally unique
